@@ -6,8 +6,10 @@
 - 🇧🇷 **Brazilian**
 - 🎓 **Computer Science undergraduate student in [Federal University of Goiás (UFG) - Goiânia, Brasil](https://inf.ufg.br/p/30138-ciencia-da-computacao)**
 - 👀 **I’m currently interested in programming contests to improve my knowledge and skills**
-- 🌱 **I’m currently learning basics of C language, calculus and maths fundamentals for computation**
-- 📫 **How to reach me:**
+- 🌱 **I’m currently learning C language, calculus and maths fundamentals for computation**
+- 🐝 **My beecrowd profile: https://bityli.com/nNgolH**
+- 📊 **My codeforces profile: https://bityli.com/gmzjTX**
+- 📫 **How to reach me:**   
     - **thiagosf.987@gmail.com**
     - **Discord: Shade#3165**
     - [![image](https://user-images.githubusercontent.com/106353386/174699855-eadfa9ad-50f7-45e8-b599-4f383d197b84.png)](https://www.linkedin.com/in/thiago-de-souza-filgueiras-3073aa221/)
