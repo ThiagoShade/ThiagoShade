@@ -6,7 +6,7 @@
 - 🇧🇷 **Brazilian**
 - 🎓 **Computer Science undergraduate student in [Federal University of Goiás (UFG) - Goiânia, Brasil](https://inf.ufg.br/p/30138-ciencia-da-computacao)**
 - 👀 **I’m currently interested in programming contests to improve my knowledge and skills**
-- 🌱 **I’m currently learning Algorithms and Data Structures, calculus, Analytical Geometry, Mathematical Logic and Physics (Cinematic)**
+- 🌱 **I’m currently learning Algorithms and Data Structures, Calculus, Analytical Geometry, Mathematical Logic and Physics (Cinematic)**
 - 🐝 **My beecrowd profile: https://bityli.com/nNgolH**
 - 📊 **My codeforces profile: https://bityli.com/gmzjTX**
 - 📫 **How to reach me:**   
