@@ -17,7 +17,7 @@
   
 
 
-## 🛠️ **Tools I use**
+## 🛠️ **Tools/Technologies I use**
 ![image](https://user-images.githubusercontent.com/106353386/174699984-63335ebe-b43d-4429-9e0c-2d4b045dcc3a.png)
 ![image](https://user-images.githubusercontent.com/106353386/174699992-e6677f8f-f7b8-4831-8de5-bc8ce7c08be0.png)
 ![image](https://user-images.githubusercontent.com/106353386/174700002-b25a76b0-688a-4c65-a562-d8d2f8dc6d97.png)
