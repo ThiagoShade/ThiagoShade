@@ -24,7 +24,9 @@
 ![image](https://user-images.githubusercontent.com/106353386/174700012-8a518e06-7e95-4e81-a91d-d0fe7b2c1dd6.png)
 ![image](https://user-images.githubusercontent.com/106353386/189551053-a9604af9-21d2-4e4c-ad69-af20a487360f.png)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![image](https://user-images.githubusercontent.com/106353386/174700025-52b2547e-709f-45c0-bf8f-33666dec1b47.png)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ##
 ![image](https://cdn74.picsart.com/197914500001202.gif?to=crop&type=webp&r=40x40&q=50)
 
