@@ -12,7 +12,7 @@
 - 📫 **How to reach me:**   
     - **thiagosf.987@gmail.com**
     - **Discord: Shade#3165**
-    - [![image](https://user-images.githubusercontent.com/106353386/174699855-eadfa9ad-50f7-45e8-b599-4f383d197b84.png)](https://www.linkedin.com/in/thiago-de-souza-filgueiras-3073aa221/)
+    - [![image](https://user-images.githubusercontent.com/106353386/174699855-eadfa9ad-50f7-45e8-b599-4f383d197b84.png)](https://www.linkedin.com/in/thiago-de-souza-filgueiras/)
 - :octocat: **I _love_ cats**
   
 
