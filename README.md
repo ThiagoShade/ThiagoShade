@@ -1,6 +1,6 @@
 # 👋 Hi, Thiago here, and these are a few things about me
 
-## ![](https://giffiles.alphacoders.com/175/1753.gif)
+## ![]([https://giffiles.alphacoders.com/175/1753.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fnyan-cat-gifs&psig=AOvVaw18sYZaOBA9WFx94EsdHNNz&ust=1695729454474000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCJiqn9faxYEDFQAAAAAdAAAAABAE))
 
 
 - 🇧🇷 **Brazilian**
