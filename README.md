@@ -1,6 +1,7 @@
 # 👋 Hi, Thiago here, and these are a few things about me
 
-## ![image](https://i.pinimg.com/originals/43/78/55/437855c8c4fdd9903e5f324fe019f3ec.gif)
+## 
+![image](https://i.pinimg.com/originals/43/78/55/437855c8c4fdd9903e5f324fe019f3ec.gif)
 
 
 - 🇧🇷 **Brazilian**
