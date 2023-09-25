@@ -6,9 +6,8 @@
 - 🇧🇷 **Brazilian**
 - 🎓 **Computer Science undergraduate student in [Federal University of Goiás (UFG) - Goiânia, Brasil](https://inf.ufg.br/p/30138-ciencia-da-computacao)**
 - 👀 **I’m interested in cybersecurity, currently studying basics of red team**
-- 🌱 **I’m currently learning Object-oriented programming, Linear algebra, Probability and statistics, Computer architecture, Digital circuits and Computer research metodology**
+- 🌱 **I’m currently learning Database, Ordinary differential equations, Discrete mathematics, Algorithms and data structures 2, Formal languages and automata.**
 - 🐝 **My beecrowd profile: https://bityli.com/nNgolH**
-- 📊 **My codeforces profile: https://bityli.com/gmzjTX**
 - 📫 **How to reach me:**   
     - **thiagosf.987@gmail.com**
     - **Discord: Shade#3165**
