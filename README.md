@@ -27,7 +27,6 @@
 ![image](https://user-images.githubusercontent.com/106353386/174700025-52b2547e-709f-45c0-bf8f-33666dec1b47.png)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ##
-![image](https://cdn74.picsart.com/197914500001202.gif?to=crop&type=webp&r=40x40&q=50)
 
 
 
