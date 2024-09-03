@@ -5,7 +5,7 @@
 
 - 🇧🇷 **Brazilian**
 - 🎓 **Computer Science undergraduate student in [Federal University of Goiás (UFG) - Goiânia, Brasil](https://inf.ufg.br/p/30138-ciencia-da-computacao)**
-- 👀 **I’m interested in cybersecurity, currently studying basics of red team**
+- 👀 **I’m interested in cybersecurity, currently studying Mobile Pentesting and for Security+ Certification**
 - 🌱 **I’m currently learning Database, Ordinary differential equations, Discrete mathematics, Algorithms and data structures 2, Formal languages and automata.**
 - 🐝 **My beecrowd profile: https://bityli.com/nNgolH**
 - 📫 **How to reach me:**   
