@@ -4,7 +4,7 @@
 ##
 
 - 🇧🇷 **Brazilian**
-- 🎓 **Computer Science undergraduate student in [Federal University of Goiás (UFG) - Goiânia, Brasil](https://inf.ufg.br/p/30138-ciencia-da-computacao)**
+- 🎓 **Offensive Security Trainee and Computer Science undergraduate student in [Federal University of Goiás (UFG) - Goiânia, Brasil](https://inf.ufg.br/p/30138-ciencia-da-computacao)**
 - 👀 **I’m interested in cybersecurity, currently studying for BSCP Certification**
 - 🌱 **I’m currently learning Physics 3, Artificial Intelligence, Basic Software and Computer Graphics**
 - 📫 **How to reach me:**   
