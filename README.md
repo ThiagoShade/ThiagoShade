@@ -8,8 +8,8 @@
 - 👀 **I’m interested in cybersecurity, currently studying for BSCP Certification**
 - 🌱 **I’m currently learning Physics 3, Artificial Intelligence, Basic Software and Computer Graphics**
 - 📫 **How to reach me:**   
-    - **Discord: mic5802**
     - [![image](https://user-images.githubusercontent.com/106353386/174699855-eadfa9ad-50f7-45e8-b599-4f383d197b84.png)](https://www.linkedin.com/in/thiago-de-souza-filgueiras/)
+    - **Discord: mic5802**
 - :octocat: **I _love_ cats**
   
 
