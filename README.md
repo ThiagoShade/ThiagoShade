@@ -4,8 +4,8 @@
 ##
 
 - 🇧🇷 **Brazilian**
-- 🎓 **Junior Offensive Security Analyst and Computer Science undergraduate student in [Federal University of Goiás (UFG) - Goiânia, Brasil](https://inf.ufg.br/p/30138-ciencia-da-computacao)**
-- 👀 **I’m interested in cybersecurity, currently studying for BSCP Certification**
+- 🎓 **Offensive Security Analyst and Computer Science undergraduate student in [Federal University of Goiás (UFG) - Goiânia, Brasil](https://inf.ufg.br/p/30138-ciencia-da-computacao)**
+- 👀 **I’m interested in cybersecurity, currently studying for CPTS Certification**
 - 📫 **How to reach me:**   
     - [![image](https://user-images.githubusercontent.com/106353386/174699855-eadfa9ad-50f7-45e8-b599-4f383d197b84.png)](https://www.linkedin.com/in/thiago-de-souza-filgueiras/)
     - **Discord: mic5802**
